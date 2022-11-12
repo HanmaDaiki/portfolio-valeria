@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-valeria/static/css/main.dee93e88.css",
+    "main.js": "/portfolio-valeria/static/js/main.a3b672c5.js",
+    "static/js/787.6ee264e0.chunk.js": "/portfolio-valeria/static/js/787.6ee264e0.chunk.js",
+    "static/media/nk170.otf": "/portfolio-valeria/static/media/nk170.50e5335d5a118ef57136.otf",
+    "index.html": "/portfolio-valeria/index.html",
+    "main.dee93e88.css.map": "/portfolio-valeria/static/css/main.dee93e88.css.map",
+    "main.a3b672c5.js.map": "/portfolio-valeria/static/js/main.a3b672c5.js.map",
+    "787.6ee264e0.chunk.js.map": "/portfolio-valeria/static/js/787.6ee264e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dee93e88.css",
+    "static/js/main.a3b672c5.js"
+  ]
+}
