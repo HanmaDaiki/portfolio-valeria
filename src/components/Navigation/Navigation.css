@@ -1,0 +1,13 @@
+.navigation {
+  display: flex;
+  gap: 60px;
+}
+
+.navigation__button {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+  background-color: rgba(0,0,0,0%);
+  color: #2d98aa;
+  border: none;
+}
